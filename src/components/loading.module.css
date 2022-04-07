@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction:column;
+    /* justify-content: center; */
+    /* align-items: content; */
+    width: 100%;
+    margin: 50px 150px;
+}
+.container input {
+    width: 300px;
+    align-self: center;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: -10px 10px 15px rgb(165, 165, 152);
+    border-radius:10px;
+    text-align: center;
+}
